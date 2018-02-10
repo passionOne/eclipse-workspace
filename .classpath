@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="JAVA8/src"/>
 	<classpathentry kind="src" path="JAVA9/src"/>
 	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="src" path="JAVA14"/>
 	<classpathentry kind="output" path="Chapter5/bin"/>
 </classpath>

@@ -2,7 +2,7 @@ package chaper2;
 
 public class calculator {
 	static private float result;
-	//wodexiao
+	
 	static void calculate(float b1, char sign, float b2) throws IllegalSignException, ArithmeticException {
 		switch (sign) {
 		case '+':
