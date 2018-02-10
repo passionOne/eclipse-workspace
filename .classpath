@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="测试/src"/>
+	<classpathentry kind="src" path="寒假测试/src"/>
+	<classpathentry kind="src" path="实验专周/src"/>
+	<classpathentry kind="src" path="Chapter5/src"/>
+	<classpathentry kind="src" path="FirstProject/src"/>
+	<classpathentry kind="src" path="JAVA10/src"/>
+	<classpathentry kind="src" path="JAVA11/src"/>
+	<classpathentry kind="src" path="JAVA7/src"/>
+	<classpathentry kind="src" path="JAVA8/src"/>
+	<classpathentry kind="src" path="JAVA9/src"/>
+	<classpathentry kind="src" path="test/src"/>
+	<classpathentry kind="output" path="Chapter5/bin"/>
+</classpath>
